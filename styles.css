@@ -163,7 +163,7 @@ p {
 
 .section-center {
   width: 90vw;
-  margin: 5rem auto;
+  margin: 4rem auto;
   max-width: 1170px;
 }
 
@@ -179,6 +179,7 @@ Countdown Timer
 */
 .gift-img {
   margin-bottom: 2rem;
+  /* margin-top: 0; */
 }
 .gift-info h3 {
   text-transform: uppercase;
